@@ -20,5 +20,5 @@ Untracked files:
 +Ronaldo < Messi
 
 
-*git fetch tai du lieu tu remote ve may, khong lam thay doi thu muc lam viec hien tai*
-*git pull tai du lieu ve giong git fetch nhung da tron lan cac thay doi len thu muc dang lam viec *
+* **git fetch**: Tải dữ liệu từ remote về máy, không làm thay đổi thư mục làm việc hiện tại.
+* **git pull**: Tải dữ liệu về giống git fetch nhưng đã trộn lẫn các thay đổi lên thư mục đang làm việc.
